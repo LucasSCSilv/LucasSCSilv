@@ -85,7 +85,7 @@
 <br/>  
 
 ## Listen With Me
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cfxzjh2ymkfgef64sdwvlbsl9&cover_image=true&theme=default" /></div>  
+<div align="center"><a href="https://spotify-github-profile.vercel.app/api/view?uid=cfxzjh2ymkfgef64sdwvlbsl9&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cfxzjh2ymkfgef64sdwvlbsl9&cover_image=true&theme=default"/><a/></div>  
 
 <br/>  
 
