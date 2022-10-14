@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a Backend developer using Node.JS  
   
-- 🌱 Learning *C# and React.JS*  
+- 🌱 Learning *C#, Java Springboot, React.JS and Angular*  
 
 - ⚡ Aiming to be a full stack developer
   
